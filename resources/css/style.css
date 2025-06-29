@@ -1,0 +1,27 @@
+/* banner of page top section */
+.bannertitle {
+    padding: 70px 0;
+}
+.banner { 
+    background-color: rgb(68, 109, 68);
+    color: whitesmoke;
+    margin: top 75px;
+    text-align: center;
+}
+/* image banner styling */
+#dome {
+    width: 700px;
+    height: 700px;
+}
+#msitestitle {
+    font-size: 30px;
+    padding-top: 50px;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+#informationsites {
+    padding: 20px 0;
+}
